@@ -1,4 +1,4 @@
-# Hi there, I'm Joseph! 👋
+# Hi there, I'm Joseph! 
 
 **Ingeniería Informática @ PUCP | Full Stack Developer & AI/Data Enthusiast**
 
