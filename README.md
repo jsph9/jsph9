@@ -19,8 +19,7 @@ I specialize in building scalable software architectures, integrating complex da
 * 📅 **EASYWEEK:** Gestor inteligente de tareas jerárquicas. Diseñé un algoritmo de auto-planificación con tiempos estimados, integrando Supabase, Prisma y la API de Google Calendar.
 * 🏥 **[PazCitas](https://github.com/jsph9/PazCitas):** Plataforma integral médica que desacopla la interfaz visual en ASP.NET (C#) de un backend modular en Java mediante servicios web SOAP.
 * 🕸️ **[Grafo Temporal PLN](https://github.com/jsph9/PLN-Consulta-de-perfiles):** Construcción de un grafo interactivo de relaciones políticas procesando 50,000 notas de prensa y 1.9 millones de entidades. Implementé un pipeline escalable integrando reconocimiento de entidades (NER), OpenIE y clustering semántico aglomerativo.
-* 📈 **Bitcoin DQN:** Implementación de un modelo jerárquico Double DQN para el análisis de precios y sentimiento del mercado.
-
+* 📈 **[BTCAgent (Bitcoin DQN)](https://github.com/jsph9/BTCAgent):** Implementación de un modelo jerárquico Double DQN para la predicción de precios y análisis de sentimiento del mercado procesando data semiestructurada.
 ### 📫 Connect with me
 * **Email:** jsph9830@gmail.com | joseph.tintaya@pucp.edu.pe
 * **LinkedIn:** [joseph-alvaro-tintaya-marce](https://www.linkedin.com/in/joseph-alvaro-tintaya-marce-9121b5433)
